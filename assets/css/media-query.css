@@ -1,0 +1,9 @@
+@media only screen and (max-width:991px) and (min-width:0px){
+    .intro-img-text{
+        top: 50%;
+    }
+
+    .intro-h1-styled{
+        font-size: 30px;
+    }
+}
